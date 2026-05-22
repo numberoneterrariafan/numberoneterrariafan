@@ -102,3 +102,18 @@
 <img width="150" height="20" alt="mephone4 fan" src="https://github.com/user-attachments/assets/ab060bf3-bdcb-4d49-a674-d513276c1265" />
 <img width="150" height="20" alt="mepad fan" src="https://github.com/user-attachments/assets/6ba413bd-9e99-4463-91ce-62d995897bf9" />
 <img width="150" height="20" alt="mephone4s fan" src="https://github.com/user-attachments/assets/c40a6d0e-6bce-40f3-89bb-b46b0f2073f6" />
+
+<p align="center"><img width="20" height="20" alt="tumblr_8a36b81378e6015675e5c0c8ed9ba285_fa8a76e0_75 (1)" src="https://github.com/user-attachments/assets/cc87adf3-7efc-466f-84f9-7d4a9f2dabc9" />
+<img width="20" height="20" alt="tumblr_23cf0f20b1870623b7374e5bfe0aeabf_643f0954_75 (1)" src="https://github.com/user-attachments/assets/7a4417f0-c087-48a4-9752-1a197108aae1" />
+<img width="20" height="20" alt="tumblr_aea932de2c10842c164395e353057710_026654ec_75" src="https://github.com/user-attachments/assets/fd4204e4-a5cd-4f1c-8046-2e39a3d87ed4" />
+<img width="20" height="20" alt="tumblr_d644a4147cb5421a6c0029851ccc75a5_835cbe15_75" src="https://github.com/user-attachments/assets/6a26a371-6406-48ce-b07a-aed9837541ca" />
+<img width="20" height="20" alt="tumblr_93fcc5f9ce834961539fb2b801c60208_65f22b07_75" src="https://github.com/user-attachments/assets/d6f327ef-efcf-4aa2-8d30-a66bbf85dffa" />
+<img width="20" height="20" alt="tumblr_6f7f48a6c339dfb1cbe9f06bef54ffee_2f111ab4_75" src="https://github.com/user-attachments/assets/83b2c860-4450-4df4-8498-42a5134c5559" />
+<img width="20" height="20" alt="tumblr_b57298f9990a8c3807d088d767e7d6ae_7c8ef01f_75" src="https://github.com/user-attachments/assets/31194982-4a0a-455c-9324-1aa5c15e2b91" />
+<img width="20" height="20" alt="tumblr_843afc6700d777aa1b9e5e5006b9ab7f_4a5afaed_75" src="https://github.com/user-attachments/assets/685bf9bb-1ffb-41bf-8ce3-9f7c26866c06" />
+<img width="20" height="20" alt="tumblr_a795ffa4138e4850a76d46e605ba7d8b_7209da12_75" src="https://github.com/user-attachments/assets/84adf0d6-28d2-4906-ae1b-8e06e5220670" />
+
+
+
+
+
