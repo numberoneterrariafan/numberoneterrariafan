@@ -1,5 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=stma80d2aecb5qh2stigte2ce&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=c6ff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 ![yaoi1](https://github.com/user-attachments/assets/6931b95f-108c-41ce-94b3-792db042eae9)
 ![yaoi2](https://github.com/user-attachments/assets/7a9c3b56-81f0-4ea4-8b7e-1c992360e208)
 ![yaoi3](https://github.com/user-attachments/assets/b316c96d-9532-4d20-81fc-eb52a147c5f0)
@@ -79,6 +77,12 @@
 ![tori](https://github.com/user-attachments/assets/4f3e4c1d-27e4-410b-99a0-a6911a05c8b6)
 ![jaxx](https://github.com/user-attachments/assets/28b3d142-b034-496d-9c24-c02ff32c13e1)
 
+![bullseye1](https://github.com/user-attachments/assets/7cb00700-fee7-46a1-8176-e0012a786ea3)
+![bullseye2](https://github.com/user-attachments/assets/ef26ec99-c698-477d-9787-35c66cf48678)
+![bullseye3](https://github.com/user-attachments/assets/ba616016-0580-4143-8f3a-37f50540d21c)
+![dealer1](https://github.com/user-attachments/assets/79df359f-fc1b-49ed-affc-f256971aef32)
+![dealer2](https://github.com/user-attachments/assets/203b4b63-14ac-4a93-a7c8-068c4153f9d1)
+![dealer3](https://github.com/user-attachments/assets/9d488ed7-c283-451e-9526-9b17fe56fdf1)
 
 ![i love computers](https://github.com/user-attachments/assets/3f1f06c6-a0a1-4656-9fae-09e095162ef6)
 ![brrrr](https://github.com/user-attachments/assets/ef771b64-20ae-41ed-87a9-5fc2cc9a8fe8)
