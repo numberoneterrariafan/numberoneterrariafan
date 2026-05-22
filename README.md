@@ -5,6 +5,8 @@
 <img width="99" height="56" alt="tori" src="https://github.com/user-attachments/assets/ac4da219-fd90-483b-bb64-af3a0e784187" />
 <img width="99" height="56" alt="jaxx" src="https://github.com/user-attachments/assets/86a2e396-44bb-476e-bbb0-f9ff41d1dd36" />
 
+<p align="center"><img width="240" height="20" alt="54149-D2-C-DEDB-4-F8-D-80-DE-6014-ABABB84-B" src="https://github.com/user-attachments/assets/b04ca2f1-da19-4c11-9e1e-922a2cae3c98" />
+
 <p align="center"><img width="48" height="64" alt="image" src="https://github.com/user-attachments/assets/375ad8ff-7931-4222-a624-125792eb86ee" />
 <img width="48" height="70" alt="image" src="https://github.com/user-attachments/assets/025442be-82f5-4945-9292-ebe9abe773dc" />
 <img width="48" height="66" alt="image" src="https://github.com/user-attachments/assets/0de890fd-9bd9-481e-898e-ff8460df4ca8" />
@@ -50,6 +52,38 @@
 <img width="48" height="70" alt="image" src="https://github.com/user-attachments/assets/8eb8602c-1a99-4958-9680-f989ae609b21" />
 <img width="48" height="70" alt="image" src="https://github.com/user-attachments/assets/7f6f81b6-f7c7-48e5-8513-969c8315c167" />
 <img width="48" height="68" alt="image" src="https://github.com/user-attachments/assets/eac53e8e-1a89-417c-9bf7-4bb100e91b8a" />
+
+<p align="center"><img width="40" height="34" alt="Desert_Scourge_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/05763e6b-33a5-479c-8696-636b04c162a1" />
+<img width="44" height="28" alt="Crabulon_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/c620eeb2-0211-47b9-b46e-c97f31ad45ec" />
+<img width="32" height="32" alt="Hive_Mind_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/9d3a28fd-c1c9-436c-b948-96c2e2d40778" />
+<img width="32" height="32" alt="Perforator_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/205992ef-8e80-4291-8e77-a74de5ba5034" />
+<img width="32" height="22" alt="Slime_God_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/d1d7fb6d-818f-4315-99ce-ddde16c12462" />
+<img width="40" height="40" alt="Cryogen_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/a6dd7ccc-b733-4db1-ac5f-e865bfba047e" />
+<img width="40" height="32" alt="Aquatic_Scourge_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/5e17422a-b7b9-41a8-943b-5cedcac437d8" />
+<img width="40" height="40" alt="Brimstone_Elemental_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/a43212dd-8c3e-4605-9fdf-e9696eb660d8" />
+<img width="34" height="36" alt="Calamitas_Clone_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/4f4b0d2b-ba33-499c-86c3-2816bc92239a" />
+<img width="44" height="32" alt="Leviathan_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/8d25506a-b29f-47f7-81c3-66e55a86ff1b" />
+<img width="24" height="32" alt="Anahita_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/1a4ecd45-2fbf-4f00-9fa2-d1d824834586" />
+<img width="44" height="30" alt="Astrum_Aureus_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/e42c02b0-6950-451f-b4e2-009ded7bc03d" />
+<img width="32" height="32" alt="Plaguebringer_Goliath_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/0b2b5ac9-cb60-4ce1-8d70-369cf6fcbc1b" />
+<img width="44" height="32" alt="Ravager_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/cce3f46e-7663-427d-bf22-12ce66c3726d" />
+<img width="36" height="34" alt="Astrum_Deus_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/6f14721b-6c0a-4709-a541-74eb6cf408a9" />
+<img width="22" height="30" alt="Profaned_Guardian_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/2dbc18d9-1acd-42ad-8897-2ec4fbf8c391" />
+<img width="32" height="32" alt="Dragonfolly_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/5231b177-2b78-4302-9a3a-31bc7ff08abc" />
+<img width="36" height="38" alt="Providence_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/a0119272-7653-4c3c-8a83-e8853d4fe60f" />
+<img width="32" height="30" alt="Ceaseless_Void_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/9edbecdb-e835-4ea7-8b36-c945c423ee8d" />
+<img width="40" height="34" alt="Storm_Weaver_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/2d2d3332-3751-4693-b0d7-d01e40d8418b" />
+<img width="32" height="32" alt="Signus_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/482a86e9-d7e1-4f8e-b548-b6c78853f04c" />
+<img width="32" height="28" alt="Polterghast_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/3f89c0a3-0411-42e6-9a6a-e29fcac7c219" />
+<img width="32" height="30" alt="Old_Duke_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/a12adf45-02c7-4d5c-bfe1-5b454239fdd1" />
+<img width="44" height="38" alt="Devourer_of_Gods_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/fdaa60c6-afb1-47ef-9afc-9bf11a276d92" />
+<img width="40" height="40" alt="Yharon_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/33444bc8-a478-4df0-93a4-880cb0c2a398" />
+<img width="40" height="46" alt="Ares_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/a4b2f29a-eae1-45c5-ac53-651ad91e4a92" />
+<img width="52" height="29" alt="Artemis_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/a56e18a7-246d-4ad5-9842-0fb8485fd01a" />
+<img width="48" height="28" alt="Apollo_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/a561710e-4250-43ed-879e-35bd812e686f" />
+<img width="50" height="42" alt="Thanatos_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/c3820a53-f61d-4b77-90b8-e690f75db032" />
+<img width="32" height="44" alt="Calamitas_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/0ba6115b-1be2-4f78-9bdc-8cebff99a142" />
+
 
 <p align="center"><img width="240" height="20" alt="54149-D2-C-DEDB-4-F8-D-80-DE-6014-ABABB84-B" src="https://github.com/user-attachments/assets/b04ca2f1-da19-4c11-9e1e-922a2cae3c98" />
 
