@@ -88,9 +88,19 @@
 <img width="50" height="42" alt="Thanatos_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/c3820a53-f61d-4b77-90b8-e690f75db032" />
 <img width="32" height="44" alt="Calamitas_Plushie_(Calamity&#39;s_Vanities)" src="https://github.com/user-attachments/assets/0ba6115b-1be2-4f78-9bdc-8cebff99a142" />
 
-
 <p align="center"><img width="240" height="20" alt="54149-D2-C-DEDB-4-F8-D-80-DE-6014-ABABB84-B" src="https://github.com/user-attachments/assets/b04ca2f1-da19-4c11-9e1e-922a2cae3c98" />
 
+<p align="center"><img width="579" height="65" alt="picasion com_lPhF" src="https://github.com/user-attachments/assets/83192592-a82b-47ce-8985-9c907d1e2439" />
+
+<p align="center"><img width="99" height="56" alt="bullseye stamp 1" src="https://github.com/user-attachments/assets/0cbe341f-4bc0-4d3f-a5c7-57b71beea742" />
+<img width="99" height="56" alt="bullseye stamp 2" src="https://github.com/user-attachments/assets/3630b52c-160b-4aef-9d8b-ce928c0abc32" />
+<img width="99" height="56" alt="bullseye stamp 3" src="https://github.com/user-attachments/assets/0198ac2a-1cb1-4910-b5be-1614f2fe9f5e" />
+<img width="99" height="56" alt="dealer stamp 1" src="https://github.com/user-attachments/assets/b528c636-6c26-4924-b768-6e217437737b" />
+<img width="99" height="56" alt="dealer stamp 2" src="https://github.com/user-attachments/assets/a4911984-8ca2-431a-a034-a6833f9860c9" />
+<img width="99" height="56" alt="dealer stamp 3" src="https://github.com/user-attachments/assets/8fdf1980-488d-4c18-aba5-43e4611da624" />
+
+<p align="center"><img width="240" height="20" alt="54149-D2-C-DEDB-4-F8-D-80-DE-6014-ABABB84-B" src="https://github.com/user-attachments/assets/b04ca2f1-da19-4c11-9e1e-922a2cae3c98" />
+  
 <p align="center"><img width="99" height="56" alt="yaoi1" src="https://github.com/user-attachments/assets/cf6d4a99-75f1-471c-9036-674facee5999" />
 <img width="99" height="56" alt="yaoi2" src="https://github.com/user-attachments/assets/1490128f-4a1a-4738-8be0-662d81e6764b" />
 <img width="99" height="56" alt="yaoi3" src="https://github.com/user-attachments/assets/71838580-2bf7-4247-a411-beffd090823f" />
@@ -125,17 +135,6 @@
 <img width="99" height="56" alt="miku3" src="https://github.com/user-attachments/assets/bb51b3b3-2596-4526-9e87-b953c09ac870" />
 <img width="99" height="56" alt="miku2" src="https://github.com/user-attachments/assets/2a97275e-66db-4a50-bff7-002fa52e35db" />
 <img width="99" height="56" alt="miku1" src="https://github.com/user-attachments/assets/146159dd-ef3a-45e8-b17b-f504278f1245" />
-
-
-<p align="center"><img width="240" height="20" alt="54149-D2-C-DEDB-4-F8-D-80-DE-6014-ABABB84-B" src="https://github.com/user-attachments/assets/b04ca2f1-da19-4c11-9e1e-922a2cae3c98" />
-
-
-<p align="center"><img width="99" height="56" alt="bullseye stamp 1" src="https://github.com/user-attachments/assets/0cbe341f-4bc0-4d3f-a5c7-57b71beea742" />
-<img width="99" height="56" alt="bullseye stamp 2" src="https://github.com/user-attachments/assets/3630b52c-160b-4aef-9d8b-ce928c0abc32" />
-<img width="99" height="56" alt="bullseye stamp 3" src="https://github.com/user-attachments/assets/0198ac2a-1cb1-4910-b5be-1614f2fe9f5e" />
-<img width="99" height="56" alt="dealer stamp 1" src="https://github.com/user-attachments/assets/b528c636-6c26-4924-b768-6e217437737b" />
-<img width="99" height="56" alt="dealer stamp 2" src="https://github.com/user-attachments/assets/a4911984-8ca2-431a-a034-a6833f9860c9" />
-<img width="99" height="56" alt="dealer stamp 3" src="https://github.com/user-attachments/assets/8fdf1980-488d-4c18-aba5-43e4611da624" />
 
 
 <p align="center"><img width="240" height="20" alt="54149-D2-C-DEDB-4-F8-D-80-DE-6014-ABABB84-B" src="https://github.com/user-attachments/assets/b04ca2f1-da19-4c11-9e1e-922a2cae3c98" />
