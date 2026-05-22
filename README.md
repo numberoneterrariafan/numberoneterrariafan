@@ -196,7 +196,4 @@
 <img width="20" height="20" alt="tumblr_843afc6700d777aa1b9e5e5006b9ab7f_4a5afaed_75" src="https://github.com/user-attachments/assets/685bf9bb-1ffb-41bf-8ce3-9f7c26866c06" />
 <img width="20" height="20" alt="tumblr_a795ffa4138e4850a76d46e605ba7d8b_7209da12_75" src="https://github.com/user-attachments/assets/84adf0d6-28d2-4906-ae1b-8e06e5220670" />
 
-
-
-
-
+<p align="center"><img width="576" height="576" alt="ezgif-5ce872a41b29755b" src="https://github.com/user-attachments/assets/512db98c-ab5d-4781-9ae4-52ff9c4fabdc" />
