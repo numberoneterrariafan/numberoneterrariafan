@@ -99,6 +99,8 @@
 <img width="99" height="56" alt="dealer stamp 2" src="https://github.com/user-attachments/assets/a4911984-8ca2-431a-a034-a6833f9860c9" />
 <img width="99" height="56" alt="dealer stamp 3" src="https://github.com/user-attachments/assets/8fdf1980-488d-4c18-aba5-43e4611da624" />
 
+<p align="center"><img width="320" height="247" alt="ezgif-566dfc00412fcbc1" src="https://github.com/user-attachments/assets/3b02b35c-3114-40f4-bb6d-3dc7e5623f77" />
+
 <p align="center"><img width="240" height="20" alt="54149-D2-C-DEDB-4-F8-D-80-DE-6014-ABABB84-B" src="https://github.com/user-attachments/assets/b04ca2f1-da19-4c11-9e1e-922a2cae3c98" />
   
 <p align="center"><img width="99" height="56" alt="yaoi1" src="https://github.com/user-attachments/assets/cf6d4a99-75f1-471c-9036-674facee5999" />
