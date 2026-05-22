@@ -73,9 +73,10 @@
 ![mephonee](https://github.com/user-attachments/assets/a27929e5-88e9-48a3-8a84-e1ce639f50f1)
 ![mepadd](https://github.com/user-attachments/assets/324ada01-b607-4018-83d7-964162d6ca8e)
 ![hs1](https://github.com/user-attachments/assets/6477ed17-7f82-4ef2-9290-9a116fc8d15d)
+
 ![spooky](https://github.com/user-attachments/assets/f62af504-e015-4173-9000-f57baa162209)
 ![tori](https://github.com/user-attachments/assets/4f3e4c1d-27e4-410b-99a0-a6911a05c8b6)
-![jaxx](https://github.com/user-attachments/assets/28b3d142-b034-496d-9c24-c02ff32c13e1)
+![jaxx](https://github.com/user-attachments/assets/28b3d142-b034-496d-9c24-c02ff32c13e1) <- my kitties
 
 ![bullseye1](https://github.com/user-attachments/assets/7cb00700-fee7-46a1-8176-e0012a786ea3)
 ![bullseye2](https://github.com/user-attachments/assets/ef26ec99-c698-477d-9787-35c66cf48678)
