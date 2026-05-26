@@ -162,7 +162,6 @@
 <img width="101" height="57" alt="ii6" src="https://github.com/user-attachments/assets/6345a321-2065-4490-b9ae-042f52479867" />
 <img width="99" height="57" alt="mephoneee" src="https://github.com/user-attachments/assets/0c5c5f67-8e22-4214-a8df-e026f1c55ac7" />
 <img width="95" height="51" alt="mephon" src="https://github.com/user-attachments/assets/f6c96598-f9f7-4306-b9cd-55beb88a7cf0" />
-<img width="99" height="57" alt="mephonee" src="https://github.com/user-attachments/assets/840537cc-7ebc-47f2-a285-da2b237ed686" /><img width="99" height="57" alt="mephoneee" src="https://github.com/user-attachments/assets/0c5c5f67-8e22-4214-a8df-e026f1c55ac7" />
 <img width="99" height="56" alt="mepadd" src="https://github.com/user-attachments/assets/6efa0de6-5933-4371-8ec2-e56b0dee5695" />
 <img width="99" height="57" alt="ii7" src="https://github.com/user-attachments/assets/420e62d2-103d-4f24-949c-1b6de9fbd542" />
 <img width="95" height="51" alt="cobs" src="https://github.com/user-attachments/assets/af4138cf-a0be-42e6-95b1-77e40e22fa0f" />
